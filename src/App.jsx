@@ -58,7 +58,7 @@ function App() {
           ))}
         </div>
       ) : (
-        <h3>No movie found!</h3>
+        <h3 className="text-white">No movie found!</h3>
       )}
     </div>
   );
