@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import "./App.css";
 import searchIcon from "./searchIcon.svg";
 import MovieCard from "./movieCard";
-const API_URL = "http://www.omdbapi.com?apikey=b6536d76";
+const API_URL = "https://www.omdbapi.com?apikey=b6536d76";
 
 /*
 Poster:"https://m.media-amazon.com/images/M/MV5BODIyMDdhNTgtNDlmOC00MjUxLWE2NDItODA5MTdkNzY3ZTdhXkEyXkFqcGc@._V1_SX300.jpg"
